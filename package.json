@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "name": "ngx-file-drop",
   "repository": "georgipeltekov/ngx-file-drop",
   "engines": {
     "node": ">= 16.13.0",
